@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
           return;
       }
 
-      const apiKey = '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';
+      const apiKey = 'API';
       const apiUrl = 'https://api.openai.com/v1/chat/completions';
 
       fetch(apiUrl, {
